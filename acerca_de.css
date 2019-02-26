@@ -1,0 +1,9 @@
+body {
+	background: url(backgrounds/madera_tablas_vertical.jpg) no-repeat center center fixed;
+		background-size: cover;
+}
+.row {
+  padding: 35px;
+  background-color: #F7F7F7;
+  border: 1px solid #DDD;
+}
